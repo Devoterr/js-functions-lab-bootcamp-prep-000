@@ -11,6 +11,6 @@ function happyHolidayTo(Christmas, Meesa) {
   return "Happy Christmas, " + Meesa;
 }
 
-function holidayCountdown(Christmas, 12) {
+function holidayCountdown(Christmas, num) {
   return "It's";
 }
