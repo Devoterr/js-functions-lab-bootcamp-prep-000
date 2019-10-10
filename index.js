@@ -4,11 +4,11 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  return "Happy holidays, " + ;
+  return "Happy holidays, " + name;
 }
 
 function happyHolidayTo(holiday, name) {
-  return "Happy Christmas, " + Meesa;
+  return "Happy " + holiday + Meesa;
 }
 
 function holidayCountdown(Christmas, num) {
