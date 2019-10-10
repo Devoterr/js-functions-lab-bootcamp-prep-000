@@ -4,7 +4,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(Meesa) {
-  return "Happy holidays, ${name}!";
+  return "Happy holidays, Meesa!";
 }
 
 function happyHolidayTo([Christmas, Meesa]) {
